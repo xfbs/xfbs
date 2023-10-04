@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Software Developer who loves to work with Rust. 
-
-> I am currently available for hire, feel free to reach out.
+I'm passionate about [Rust](https://www.rust-lang.org/), amongst other things.
 
 ### Projects
 
