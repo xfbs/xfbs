@@ -5,7 +5,7 @@ I'm a polyglot software engineer with a passion for [Rust](https://www.rust-lang
 ### Projects
 
 - [diff.rs](https://diff.rs): Web application to render a diff between Rust crate versions. Written in WebAssembly using the Yew framework, fully client-side.
-- [Passgen](https://passgen.it): Password generator that can generate a random password matching a regex. Supports reading word lists to generate [XKCD936](https://xkcd.com/936/)-style passwords. Supports building markov chain of letter sequences to generate higher-entropy, pronounceable words for any language.
+- [Passgen](https://github.com/xfbs/passgen): Password generator that can generate a random password matching a regex. Supports reading word lists to generate [XKCD936](https://xkcd.com/936/)-style passwords. Supports building markov chain of letter sequences to generate higher-entropy, pronounceable words for any language.
 
 ### Rust Crates
 
